@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, my name is Gede Hari, currently a high school student living in Denpasar, Bali!
 
-<!--
-**gedehari/gedehari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently learning game developing
+- Somehow involved with the FNF community.
+- Codes in: JavaScript, GDScript, Haxe, and a little bit of C++.
 
-Here are some ideas to get you started:
+### Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Twitter: [@gedehari](https://twitter.com/gedehari)
+- Discord: gedehari#1520
+- Portofolio: [gedehari.github.io](https://gedehari.github.io/)
+
+Thank you for reading!
