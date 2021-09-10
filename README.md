@@ -8,6 +8,6 @@
 
 - Twitter: [@gedehari](https://twitter.com/gedehari)
 - Discord: gedehari#1520
-- Portofolio: [gedehari.github.io](https://gedehari.github.io/)
+- Portfolio: [gedehari.github.io](https://gedehari.github.io/)
 
 Thank you for reading!
