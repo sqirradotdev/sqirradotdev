@@ -1,4 +1,4 @@
-### Hi, my name is Gede Hari, currently a high school student living in Denpasar, Bali!
+### Hi, my name is Gede Hari, currently a high school student living in Bali, Indonesia!
 
 - Currently learning game developing
 - Somehow involved with the FNF community.
