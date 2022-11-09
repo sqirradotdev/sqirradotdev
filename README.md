@@ -1,7 +1,7 @@
-### Hiya! I'm Ari, a programmer and a semi-professional gamedev-er. Nice to meet you!
+### Hiya! I'm Ari, just your average programming nerd.
 
-- Learning: gamedev, backend webdev, graphics programming
-- Codes in: C#, JavaScript, GDScript, Haxe, and a little bit of C++.
+- Interested in: gamedev, backend webdev, mobile dev.
+- Codes in: C, C++, C#, JavaScript, GDScript, Haxe, Kotlin.
 
 ### Links
 
