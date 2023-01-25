@@ -5,8 +5,8 @@
 
 ### Links
 
-- Discord: sqirra-rng#1520
-- Twitter: [@gedehari](https://twitter.com/gedehari)
+- Discord: Ari 🐿#1520
+- Twitter: [@ariden03](https://twitter.com/ariden03)
 - Portfolio: [gedehari.github.io](https://gedehari.github.io/)
 
 Thank you for reading!
