@@ -1,14 +1,14 @@
 ### Hiya! I'm Ari, just your average programming nerd.
 
-- Interested in: gamedev, web dev, mobile dev
-- Codes in: C, C++, C#, JavaScript, GDScript, Haxe, Kotlin.
+- My fields: gamedev, webdev, cloud computing
+- Technical Skills: JavaScript, TypeScript, React, Next.js, Vue.js, C#, Unity, Unreal, Godot, Go
 
 ### Links
 
-- Discord: Ari the Squirrel#1520
-- Twitter: [@gedehari](https://twitter.com/gedehari)
-- Portfolio: [gedehari.github.io](https://gedehari.github.io/)
+- Discord: [sqirradotdev](https://discordapp.com/users/343187614133911553)
+- Twitter: [@sqirradotdev](https://twitter.com/sqirradotdev)
+- Portfolio: [sqirra.dev](https://sqirra.dev/)
 
 Thank you for reading!
 
-PS: oh yeah, this will be overhauled soon :)
+PS: sorry for the boring profile. I promise it will be better.
